@@ -1,0 +1,44 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "Productos",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "ListaCategorias",
+          "arrayConfig": "CONTAINS"
+        },
+        {
+          "fieldPath": "name",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Productos",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "Categoria",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "name",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ],
+  "fieldOverrides": [
+    {
+      "collectionGroup": "fcm_tokens",
+      "fieldPath": "fcm_token",
+      "indexes": [
+        {
+          "order": "ASCENDING",
+          "queryScope": "COLLECTION_GROUP"
+        }
+      ]
+    }
+  ]
+}

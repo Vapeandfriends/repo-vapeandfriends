@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "857999967851",
+    "project_id": "vapeandfriends-af9ea",
+    "storage_bucket": "vapeandfriends-af9ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857999967851:android:f23b46b13314745b6d532e",
+        "android_client_info": {
+          "package_name": "com.mycompany.vapeandfriendsadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857999967851-fp5tgsgvv21e9uo08hq26mr8r3ouoe74.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.vapeandfriendsadmin",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "857999967851-6s0eup64acu15acuvfhvqu0ea687heon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEuRJc2Cz2UOerdMQdNfjRSI6ly3LBUa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857999967851-6s0eup64acu15acuvfhvqu0ea687heon.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "857999967851-6qecr5iorh0kf5n45fhu73j8spk0f3ft.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.vapeandfriendsadmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857999967851:android:becaba69002eebad6d532e",
+        "android_client_info": {
+          "package_name": "com.vapeandfriends.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857999967851-og7i3hht35pi6lh550v42mmlicu7joi9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vapeandfriends.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "857999967851-6s0eup64acu15acuvfhvqu0ea687heon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEuRJc2Cz2UOerdMQdNfjRSI6ly3LBUa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857999967851-6s0eup64acu15acuvfhvqu0ea687heon.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "857999967851-6qecr5iorh0kf5n45fhu73j8spk0f3ft.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.vapeandfriendsadmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
